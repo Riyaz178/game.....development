@@ -1,3 +1,4 @@
+
 # EX 10 : ANIMATION USING FLASH
 
 
@@ -65,3 +66,7 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![Screenshot (42)](https://github.com/user-attachments/assets/c28acabe-b355-4fb3-bf3a-b6eb22e21ebb)
+
+##RESULT:
+To create a motion tweening, shape tweening, guide layer and masking using Flash is verified.
